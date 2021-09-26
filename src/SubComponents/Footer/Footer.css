@@ -1,0 +1,12 @@
+.footer-text{
+    color: #fed300
+}
+
+.site-footer{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    background-color: black;
+    overflow: auto;
+}

@@ -1,0 +1,11 @@
+.desktop-menu-link{
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.desktop-menu-container{
+    display: flex;
+}
