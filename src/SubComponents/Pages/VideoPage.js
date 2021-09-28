@@ -5,7 +5,7 @@ import './Page.css'
 const VideoPage = () => {
     return (
         <div className="page-container">
-            <Slider imgpath="./Images/videobanner40.png" title="PRODUCKE VIDEÍ" />
+            <Slider imgpath="./Images/videobanner40.jpg" title="PRODUCKE VIDEÍ" />
             <div className="content-container">
                 <h1 className="tal">Náš tým</h1>
                 <p className="page-text">Náš tým složený z tvůrců videí a animátorů vám nabízí jedinečné know how. Máme více než 8 letou zkušenost v oboru. Našima rukama prošly stovky projektů, pod taktovkou našeho týmu vznikala videa všeho druhu.<br/><br/>

@@ -5,7 +5,7 @@ import './Page.css'
 const AdPage = () => {
     return (
         <div className="page-container">
-            <Slider imgpath="./Images/adbanner40.png" title="REKLAMA A MARKETING" />
+            <Slider imgpath="./Images/adbanner40.jpg" title="REKLAMA A MARKETING" />
             <div className="content-container">
                 <h1 className="tal">Marketing na sociálních sítích</h1>
                 <p className="page-text">Marketing na sociálních sítích je pro značku extrémně důležitý. Firemní profil a reklama na Facebooku nebo Instagramu, Youtube video, influencer marketing a další formy propagace jsou v éře sociálních sítí klíčové, už dávno nejsou jen možností, ale téměř povinností. <br/><br/>Sociální sítě přinášejí do firemní komunikace nový rozměr a přímou interakci se zákazníkem. Náš zkušený tým se strategický přístupem k řešení problémů pro vás najde optimální strategii ať už jste malá česká firma nebo nadnárodní korporace.</p>

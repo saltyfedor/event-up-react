@@ -5,7 +5,7 @@ import './Page.css'
 const StreamPage = () => {
     return (
         <div className="page-container">
-            <Slider imgpath="./Images/streambanner40.png" title="PŘÍPRAVA STREAMU" />
+            <Slider imgpath="./Images/streambanner40.jpg" title="PŘÍPRAVA STREAMU" />
             <div className="content-container">
                 <h1 className="tal">Streamovani akcí</h1>
                 <p className="page-text">S námi můžete pokračovat v pořádání akcí vesele dál i přes veškerá bezpečnostní opatření. Díky online streamingu dokonce můžete získat více zákazníků a diváků než obvykle. Připravíme pro vás stream z jakkoli velké akce, nebo naopak celou akci zrealizujeme online tak, že všichni řečníci budou v pohodlí svého domova. Ať už pořádáte jakoukoli akci pro sebevětší množství diváků, převedeme ji pro vás do online světa  rychle a efektivně, nebo s vámi vymyslíme zcela nový koncept online eventu.

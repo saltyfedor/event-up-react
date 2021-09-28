@@ -5,7 +5,7 @@ import './Page.css'
 const EventPage = () => {
     return (
         <div className="page-container">
-            <Slider imgpath="./Images/eventbanner40.png" title="EVENTY" />
+            <Slider imgpath="./Images/eventbanner40.jpg" title="EVENTY" />
             <div className="content-container">
                 <h1 className="tal">Co pro Vás můžeme udělat</h1>
                 <p className="page-text">

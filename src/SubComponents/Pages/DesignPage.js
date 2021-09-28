@@ -5,7 +5,7 @@ import './Page.css'
 const DesignPage = () => {
     return (
         <div className="page-container">
-            <Slider imgpath="./Images/designbanner40.png" title="DESIGN A VÝVOJ" />
+            <Slider imgpath="./Images/designbanner40.jpg" title="DESIGN A VÝVOJ" />
             <div className="content-container">
                 <h1 className="tal">Branding</h1>
                 <p className="page-text">Od loga až po vizitku. Vytvoříme vám vizuální identitu, kterou vám bude konkurence závidět.</p>

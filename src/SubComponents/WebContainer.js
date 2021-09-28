@@ -29,7 +29,7 @@ const WebContainer = () => {
              <Header />
             <Route exact path="/">
                 <div className="web-container">                   
-                    <Slider imgpath="./Images/conference40.png" title="EventUP" />
+                    <Slider imgpath="./Images/conference40.jpg" title="EventUP" />
                     <ContentLayout />
                 </div>
             </Route>
