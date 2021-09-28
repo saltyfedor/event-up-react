@@ -75,7 +75,7 @@ const ContentLayout = () => {
                     <ContentBlock icon={"./Icons/event.svg"} heading={"Eventy"} text={eventText} link={"events"}/>               
                 </div>
                 <div className="content-row">
-                    <ContentBlock icon={"./Icons/adicon.svg"} heading={"Reklama"} text={adText} link={"adverts"} />               
+                    <ContentBlock icon={"./Icons/adicon1.svg"} heading={"Reklama"} text={adText} link={"adverts"} />               
                 </div>
                 <div className="content-row">
                     <ContentBlock icon={"./Icons/design.svg"} heading={"Design"} text={desText} link={"design"} />               
