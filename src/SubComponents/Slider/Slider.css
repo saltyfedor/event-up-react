@@ -1,6 +1,16 @@
 .sliderimg{
     width: 100%;  
     max-height: 80vh;
-    object-fit: cover;
-    object-position: center;    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.slider-title{
+   color: #fed300;
+   font-weight: bold;
+  
 }

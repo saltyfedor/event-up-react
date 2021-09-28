@@ -1,0 +1,31 @@
+.page-container{
+    overflow: auto;
+    background-color: black;
+    color: #fed300;
+    padding-bottom: 20px;
+}
+
+.tal{
+    text-align: left;
+}
+
+.content-container{
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.page-text{
+    color: #999999;
+    text-align: left;
+    font-size: larger;
+    line-height: 1.5;
+}
+
+.text-heading{
+    margin-left: 20px;
+    margin-right: 20px;
+}
